@@ -48,9 +48,7 @@ Bu projede **Techsash Waste Classification Data** kullanılmıştır.
 
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
-### 1. Projeyi Klonlayın
-Aşağıdaki komutta `KULLANICI_ADINIZ` yazan yeri kendi GitHub kullanıcı adınızla değiştirmeyi unutmayın:
 
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/atik-siniflandirma-projesi.git](https://github.com/KULLANICI_ADINIZ/atik-siniflandirma-projesi.git)
+git clone https://github.com/ahmetcanaksz/atik-siniflandirma-projesi.git
 cd atik-siniflandirma-projesi
