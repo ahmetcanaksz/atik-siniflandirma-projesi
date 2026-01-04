@@ -1,0 +1,26 @@
+# --- Python ve Jupyter Gereksiz Dosyaları ---
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# --- VS Code Ayar Dosyaları ---
+.vscode/
+
+# --- Sanal Ortamlar (Environment) ---
+jellyfish_env/
+env/
+venv/
+.conda/
+
+# --- BÜYÜK VERİ SETLERİ (Kesinlikle yükleme!) ---
+# Kagglehub'ın indirdiği klasörler ve eski denemeler
+deniz_anasi/
+DATASET/
+TRAIN/
+TEST/
+waste-classification-data/
+data/
+
+# --- İşletim Sistemi Dosyaları ---
+.DS_Store
+Thumbs.db
