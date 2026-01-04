@@ -42,13 +42,4 @@ Bu projede **Techsash Waste Classification Data** kullanılmıştır.
 * **Kaynak:** [Kaggle - Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 * **Sınıflar (Binary Classification):**
     1.  **Organic:** Organik Atıklar (Sebze, meyve, yemek artıkları vb.)
-    2.  **Recyclable:** Geri Dönüştürülebilir Atıklar (Plastik, cam, metal, kağıt vb.)
-
-## 🛠️ Kurulum ve Kullanım
-
-Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
-
-
-```bash
-git clone https://github.com/ahmetcanaksz/atik-siniflandirma-projesi.git
-cd atik-siniflandirma-projesi
+    2.  **Recyclable:** Geri Dönüştürülebilir Atıklar (Plastik, cam, metal, kağıt vb.)  
